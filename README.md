@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**abhay-kumar-a/abhay-kumar-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🔭 I’m currently working on JMR Infotech<br>🌱 I’m currently learning React JS<br>👯 I’m looking to collaborate on Java based Projects<br>🤔 I’m looking for help with System Design<br>💬 Ask me about Java related stuffs<br>📫 How to reach me : Linkedin -linkedin.com/in/abhay-kumar-0043441b4/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: If i am not coding then i am probably playing games with my friends<br>
 
